@@ -31,10 +31,6 @@ src/
 │ └── exceptions/
 │ └── WithdrawException.java
 
-yaml
-Copiar
-Editar
-
 ---
 
 ## 🚀 How to run
@@ -42,10 +38,6 @@ Editar
 1. Clone the repository:
 
 git clone https://github.com/your-username/your-repository.git
-
-yaml
-Copiar
-Editar
 
 2. Open the project in your Java IDE.
 
